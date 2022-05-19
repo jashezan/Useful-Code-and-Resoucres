@@ -1,2 +1,3 @@
-# javascript-miscellaneous
-Here are many javascript Code 
+# JavaScript Snippets
+
+Here are some JavaScript Code collection to make life easier
