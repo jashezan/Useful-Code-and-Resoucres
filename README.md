@@ -1,3 +1,7 @@
-# JavaScript Snippets
+# Some Code Snippets
 
-Here are some JavaScript Code collection to make life easier
+Here are some Code collection to make life easier
+
+### Also Python Revision:
+
+
