@@ -1,25 +1,27 @@
 ## Random Image Source:
 
+w means `width` and h for `height`.
+
 #### Lorem Flicker:
 ```bash
-https://loremflicker.com/{width}/{height}
+https://loremflicker.com/w/h
 ```
 <br>
 
 #### Lorem Pixel
 ```bash
-https://lorempixel.com/{width}/{height}
+https://lorempixel.com/w/h
 ```
 
 <br>
 
 #### Unsplash Photos
 ```bash
-https://source.unsplash.com/{width}x{height}
+https://source.unsplash.com/wxh
 ```
 
 ```bash
-https://unsplash.it/{width}/{height}
+https://unsplash.it/w/h
 ```
 
 ```bash
@@ -31,40 +33,40 @@ https://source.unsplash.com/random
 #### Placeholder Images
 
 ```bash
-https://via.placeholder.com/{width}x{height}
+https://via.placeholder.com/wxh
 ```
 
 <br>
 
 #### Dummy Images
 ```bash
-https://dummyimage.com/{width}x{height}/{background-color-hex}/{foreground-color-hex}
+https://dummyimage.com/wxh/{background-color-hex}/{foreground-color-hex}
 ```
 
 <br>
 
 #### Picsum Images
 ```bash
-https://picsum.photos/200/300
+https://picsum.photos/w/h
 ```
 
 ```bash
-https://picsum.photos/200/300/?blur
+https://picsum.photos/w/h/?blur
 ```
 
 ```bash
-https://picsum.photos/200/300?grayscale
+https://picsum.photos/w/h?grayscale
 ```
 
 ```bash
-https://picsum.photos/seed/picsum/200/300
+https://picsum.photos/seed/picsum/w/h
 ```
 
 <br>
 
 #### Random Images
 ```bash
-https://random.imagecdn.app/500/150
+https://random.imagecdn.app/w/h
 ```
 
 <br>
