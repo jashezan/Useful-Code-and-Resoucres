@@ -1,6 +1,6 @@
-# Some Code Snippets
+# Some Code and Resources
 
-Here are some Code collection to make life easier
+Here are some Code & Resources collection to make life easier
 
 ### Also Python Revision:
 
