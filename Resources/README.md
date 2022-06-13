@@ -2,20 +2,20 @@
 
 
 <br>
- 
+
 #### Lorem Flicker:
 ```bash
 https://loremflicker.com/{width}/{height}
 ```
 <br>
- 
+
 #### Lorem Pixel
 ```bash
 https://lorempixel.com/{width}/{height}
 ```
 
 <br>
- 
+
 #### Unsplash Photos
 ```bash
 https://source.unsplash.com/{width}x{height}
@@ -26,22 +26,26 @@ https://unsplash.it/{width}/{height}
 ```
 
 ```bash
-https://via.placeholder.com/{width}x{height}
-```
-
-```bash
 https://source.unsplash.com/random
 ```
 
 <br>
- 
+
+#### Placeholder Images
+
+```bash
+https://via.placeholder.com/{width}x{height}
+```
+
+<br>
+
 #### Dummy Images
 ```bash
 https://dummyimage.com/{width}x{height}/{background-color-hex}/{foreground-color-hex}
 ```
 
 <br>
- 
+
 #### Picsum Images
 ```bash
 https://picsum.photos/200/300
@@ -60,14 +64,14 @@ https://picsum.photos/seed/picsum/200/300
 ```
 
 <br>
- 
+
 #### Random Images
 ```bash
 https://random.imagecdn.app/500/150
 ```
 
 <br>
- 
+
 #### Lorem Space API 
 ```bash
 https://api.lorem.space/image/movie?w=150&h=220
