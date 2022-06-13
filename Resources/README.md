@@ -1,8 +1,5 @@
 ## Random Image Source:
 
-
-<br>
-
 #### Lorem Flicker:
 ```bash
 https://loremflicker.com/{width}/{height}
