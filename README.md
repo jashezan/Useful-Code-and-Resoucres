@@ -2,11 +2,17 @@
 
 Here are some Code & Resources collection to make life easier
 
-### Also Python Revision:
+### 1. Also Python Revision:
 
-https://github.com/jashezan/Useful-Code-and-Resoucres/blob/main/Python/README.md
+   https://github.com/jashezan/Useful-Code-and-Resoucres/blob/main/Python/README.md
 
 
-### Random Image Sources:
+### 2. Random Image Sources:
 
-https://github.com/jashezan/Useful-Code-and-Resoucres/tree/main/Resources
+   https://github.com/jashezan/Useful-Code-and-Resoucres/tree/main/Resources
+
+
+### 3. Deploy React Project in `Github Pages`:
+
+   https://github.com/jashezan/Useful-Code-and-Resoucres/tree/main/Resources/React-github-pages-deploy
+
