@@ -2,251 +2,255 @@
 
 
 
-Level: Beginner to Medium
+*Level: Beginner to Medium*
 
-Topics:
-
-
-1. Introduction to RDBMS
-
-2. Normalisation
-
-3. Introduction to SQL
-
-4. Tables and Fields
-
-5. Constraints
-
-6. DDL
-
-7. DML & DQL
-
-8. Joins 
+**Topics:**
 
 
+1. [Introduction to RDBMS](#1)
 
-<h3 align="center"> 1. Introduction to RDBMS </h3>
+2. [Normalisation](#2)
+
+3. [Introduction to SQL](#3)
+
+4. [Tables and Fields](#4)
+
+5. [Constraints](#5)
+
+6. [DDL](#6)
+
+7. [DML & DQL](#7)
+
+8. [Joins ](#8)
 
 
+<br><br>
 
-➀ What is a Database?
-
-➁ What are different types of Databases?
-
-➂ What is DBMS?
-
-➃ What is difference between Database and DBMS?
-
-➄ What is RDBMS?
-
-➅ Which are popular RDBMS vendors?
-
-➆ What is ACID property in Database? 
+<h3 align="center" id="1"> 1. Introduction to RDBMS </h3>
 
 
 
-<h3 align="center"> 2. Normalisation </h3>
+1. What is a Database?
+
+2. What are different types of Databases?
+
+3. What is DBMS?
+
+4. What is difference between Database and DBMS?
+
+5. What is RDBMS?
+
+6. Which are popular RDBMS vendors?
+
+7. What is ACID property in Database? 
+
+
+<br><br>
+
+<h3 align="center" id="2"> 2. Normalisation </h3>
 
 
 
-➀ What is Normalisation?
+1. What is Normalisation?
 
-➁ Why is Normalisation necessary?
+2. Why is Normalisation necessary?
 
-➂ What are the disadvantages of not performing Normalisation?
+3. What are the disadvantages of not performing Normalisation?
 
-➃ What are different Normal Forms (NF)?
+4. What are different Normal Forms (NF)?
 
-➄ What is Denormalisation? 
-
-
-
-<h3 align="center"> 3. Introduction to SQL </h3>
+5. What is Denormalisation? 
 
 
+<br><br>
 
-➀ What is SQL?
+<h3 align="center" id="3"> 3. Introduction to SQL </h3>
 
-➁ What is the use of SQL?
 
-➂ Is SQL a programming language?
 
-➃ What are the different parts of SQL?
+1. What is SQL?
+
+2. What is the use of SQL?
+
+3. Is SQL a programming language?
+
+4. What are the different parts of SQL?
 
 Or,
-➄ Group SQL commands in different parts.
+5. Group SQL commands in different parts.
 
-➅ What is DDL?
+6. What is DDL?
 
-➆ What is DML?
+7. What is DML?
 
-➇ What is DQL?
+8. What is DQL?
 
-➈ What is DCL?
+9. What is DCL?
 
-➉ What is TCL? 
-
-
-
-<h3 align="center"> 4. Tables and Fields </h3>
+10. What is TCL? 
 
 
+<br><br>
 
-➀ What is a Table?
-
-➁ What is a field in a Table?
-
-➂ Write a SQL command to create a Table.
-
-➃ How to change the name of a Table?
-
-➄ How to truncate a table?
-
-➅ How to drop a table? 
+<h3 align="center" id="4"> 4. Tables and Fields </h3>
 
 
 
-<h3 align="center"> 5. Constraints </h3>
+1. What is a Table?
+
+2. What is a field in a Table?
+
+3. Write a SQL command to create a Table.
+
+4. How to change the name of a Table?
+
+5. How to truncate a table?
+
+6. How to drop a table? 
+
+
+<br><br>
+
+<h3 align="center" id="5"> 5. Constraints </h3>
 
 
 
-➀ What is a constraint?
+1. What is a constraint?
 
-➁ What are different levels of constraints?
+2. What are different levels of constraints?
 
-➂ Give examples of various constraints?
+3. Give examples of various constraints?
 
-➃ What is a primary key?
+4. What is a primary key?
 
-➄ What is a unique key? 
+5. What is a unique key? 
 
-➅ Difference between a primary key and a unique key.
+6. Difference between a primary key and a unique key.
 
-➆ What is a foreign key?
+7. What is a foreign key?
 
-➇ What is NULL value?
+8. What is NULL value?
 
-➈ What is NOT NULL constraint?
+9. What is NOT NULL constraint?
 
-➉ Is blank space or Zero (0) same as NULL? 
-
-
-
-<h3 align="center"> 6. DDL </h3>
+10. Is blank space or Zero (0) same as NULL? 
 
 
+<br><br>
 
-➀ Give some examples of DDL commands.
-
-➁ Write the syntax of creating a table.
-
-➂ How to specify the default value for a column?
-
-➃ How to specify a foreign key?
-
-➄ How to specify a unique key?
-
-➅ How to specify multiple columns as the primary key? 
-
-➆ What are different constraints you can add to a column while creating a table?
-
-➇ How to create a copy of a table? (both structure and, data)
-
-➈ You have 'n' tables and asked to create a separate table which will contain a few columns from these tables with data being copied. 
-
-➉ What is SELECT INTO used for? (In SQL Server)
-
-➀➀ Difference between ALTER and RENAME.
-
-➀➁ Can a previously nullable column be altered to a NOT NULL column? If yes, explain the steps. 
+<h3 align="center" id="6"> 6. DDL </h3>
 
 
 
-<h3 align="center"> 7. DML & DQL </h3>
+1. Give some examples of DDL commands.
+
+2. Write the syntax of creating a table.
+
+3. How to specify the default value for a column?
+
+4. How to specify a foreign key?
+
+5. How to specify a unique key?
+
+6. How to specify multiple columns as the primary key? 
+
+7. What are different constraints you can add to a column while creating a table?
+
+8. How to create a copy of a table? (both structure and, data)
+
+9. You have 'n' tables and asked to create a separate table which will contain a few columns from these tables with data being copied. 
+
+10. What is SELECT INTO used for? (In SQL Server)
+
+11. Difference between ALTER and RENAME.
+
+12. Can a previously nullable column be altered to a NOT NULL column? If yes, explain the steps. 
+
+
+<br><br>
+
+<h3 align="center" id="7"> 7. DML & DQL </h3>
 
 
 
-➀ How to insert rows into a table?
+1. How to insert rows into a table?
 
-➁ What are different syntaxes for inserting records into a table?
+2. What are different syntaxes for inserting records into a table?
 
-➂ What is the syntax to insert multiple records at a time?
+3. What is the syntax to insert multiple records at a time?
 
-➃ How to update data in a table?
+4. How to update data in a table?
 
-➄ How to delete a row in a table? 
+5. How to delete a row in a table? 
 
-➅ Difference between DELETE and TRUNCATE?
+6. Difference between DELETE and TRUNCATE?
 
-➆ Explain how DML operations are performed on a View.
+7. Explain how DML operations are performed on a View.
 
 Or,
-➇ Are Views used only for SELECT queries?
+8. Are Views used only for SELECT queries?
 
-➈ How to fetch rows of a table?
+9. How to fetch rows of a table?
 
-➉ What is a query condition? How to write it in SQL?
+10. What is a query condition? How to write it in SQL?
 
-➀➀ How to sort the fetched records? 
+11. How to sort the fetched records? 
 
-➀➁ What is grouping? How to write in SQL?
+12. What is grouping? How to write in SQL?
 
-➀➂ How to find how many records are being fetched?
+13. How to find how many records are being fetched?
 
-➀➃ How to find the maximum and minimum value for a field in fetched records?
+14. How to find the maximum and minimum value for a field in fetched records?
 
-➀➄ How to sum values in a field for all records? 
-
-
-
-<h3 align="center"> 8. Joins </h3>
+15. How to sum values in a field for all records? 
 
 
+<br><br>
 
-➀ What is a join in SQL?
+<h3 align="center" id="8"> 8. Joins </h3>
 
-➁ What are the different types of joins?
 
-➂ What is Inner Join?
 
-➃ What is Left Outer Join?
+1. What is a join in SQL?
 
-➄ What is Right Outer Join?
+2. What are the different types of joins?
 
-➅ What is Full Outer Join?
+3. What is Inner Join?
 
-➆ What is Cross Join? 
+4. What is Left Outer Join?
 
-➇ What is a Self Join?
+5. What is Right Outer Join?
 
-➈ What is Equi Join?
+6. What is Full Outer Join?
 
-➉ What is Natural Join?
+7. What is Cross Join? 
 
-➀➀ Given a query in Cross Join, convert it into an Inner Join.
+8. What is a Self Join?
 
-➀➁ Given a query in Right Outer Join, convert it into a Left Outer Join. 
+9. What is Equi Join?
 
-➀➂ Convert an Inner Join into an Equi Join.
+10. What is Natural Join?
+
+11. Given a query in Cross Join, convert it into an Inner Join.
+
+12. Given a query in Right Outer Join, convert it into a Left Outer Join. 
+
+13. Convert an Inner Join into an Equi Join.
 
 Or,
-➀➃ What is required to convert an Inner Join into an Equi Join?
+14. What is required to convert an Inner Join into an Equi Join?
 
-➀➄ What should be taken care of to improve the performance of queries containing Joins. 
+15. What should be taken care of to improve the performance of queries containing Joins. 
 
+<br<br>
 
-
-🚥 Disclaimer
+<h3 align="center"> 🚥 Disclaimer </h3>
 
 
 
 ⬘ The questions covered here are mostly conceptual
 
-
-
 ⬗ I never claim only these types of questions are/should be asked during interviews
-
-
 
 ⬙ For interviews, you should have fundamentals strong. And you should be able to provide solutions to practical problems. 
 
