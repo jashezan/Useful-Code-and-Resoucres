@@ -242,7 +242,7 @@ Or,
 
 15. What should be taken care of to improve the performance of queries containing Joins. 
 
-<br<br>
+<br><br>
 
 <h3 align="center"> 🚥 Disclaimer </h3>
 
